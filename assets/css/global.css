@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@100&family=Open+Sans:wght@600;700&display=swap');
+body{
+    font-family: 'Open Sans';
+    min-height: 100vh;
+    background-color:aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #dadfe8
+}
+.pokedex{
+    display: flex;
+    gap: 30px;
+    padding: 50px;
+}
